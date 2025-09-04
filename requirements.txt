@@ -1,0 +1,8 @@
+transformers==4.49.0
+vllm==0.7.3
+pyparsing
+fuzzywuzzy
+jieba
+scikit-learn
+rouge
+wandb
